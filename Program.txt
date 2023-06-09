@@ -3,6 +3,7 @@ int main()
 {
    char str[100];
    int a;
+   scanf("%d",&a);
    scanf("%[^\n]s",str);
    int key,i;
    scanf("%d",&key);
